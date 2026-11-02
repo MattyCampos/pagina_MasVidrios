@@ -1,0 +1,37 @@
+.tabl{
+    margin-left: 2%;
+    margin-bottom: 2%;
+
+}
+
+.TituloPiePagina{
+    color: white;
+    margin-left: 2%;
+    margin-bottom: 1%;
+    font-size: 30px;
+}
+
+
+
+
+    <div>
+    <br>
+    <h2 class="TituloPiePagina">Contactanos:</h2>
+    <table class="tabl">
+      <tr>
+        <th>
+          <a href="https://www.facebook.com/masvidriochillan" #facebook><img src="https://i.ibb.co/31F0Fk6/3.png" alt="Captura-de-pantalla-2024-06-02-171707-removebg-preview" width="65" height="50" style="border-radius: 20%"></a>
+          <a href="mailto:mas.ventas@gmail.com" #correo><img src="https://i.ibb.co/TvmtCz5/2.png" alt="Captura-de-pantalla-2024-06-02-171742-removebg-preview" width="65" height="50" style="border-radius: 20%"></a>
+          <a href="tel:+56951976914"><img src="https://i.ibb.co/KwSV4gc/1.png" alt="Captura-de-pantalla-2024-06-02-171553-removebg-preview" width="65" height="50" style="border-radius: 20%"></a>
+        </th>
+      </tr>   
+    </table>
+
+  </div>
+
+
+
+
+
+
+
